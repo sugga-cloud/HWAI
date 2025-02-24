@@ -5,4 +5,5 @@ pdfplumber
 paddleocr
 pillow
 numpy
+paddlepaddle
 opencv-python-headless
