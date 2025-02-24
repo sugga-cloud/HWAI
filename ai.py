@@ -10,7 +10,7 @@ import cv2
 
 # Initialize Gemini API
 env = Settings()
-
+print(env.API())
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=env.API(),

@@ -1,5 +1,5 @@
 class Settings:
-    api_key = "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"
+    api_key = "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"
     def API(self):
         return self.api_key
     
